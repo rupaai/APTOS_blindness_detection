@@ -8,5 +8,6 @@
 6. [Using enhanceddeep convolutional neural network](../master/An_enhanced_diabetic_retinopathy_detection_classification.pdf)
 7. [Using Convolutional Neural Networks](../master/Convolutional_Neural_Networks_for_Diabetic_Retinopathy.pdf)
 
-### Why to use centrecropping??
+### Why use centrecropping??
+
 ![alt text](https://github.com/rupaai/APTOS_blindness_detection/blob/master/CentreCropping.png "Reason of using CentreCropping")
