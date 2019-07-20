@@ -7,6 +7,7 @@
 5. [Using deep convolutional neural network](../master/Diabetic_Retinopathy_Detection_using_Deep_Convolutional_Neural_Network.pdf)
 6. [Using enhanceddeep convolutional neural network](../master/An_enhanced_diabetic_retinopathy_detection_classification.pdf)
 7. [Using Convolutional Neural Networks](../master/Convolutional_Neural_Networks_for_Diabetic_Retinopathy.pdf)
+8. [Kaggle Diabetic Retinopathy Detection 2015](https://www.kaggle.com/c/diabetic-retinopathy-detection/)
 
 ### Why use centrecropping??
 
