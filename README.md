@@ -1,4 +1,4 @@
-# Federated blindness detection project
+# Federated Blindness Detection
 
 Contributors: Labiba Kanij Rupty (@Labiba), Kris Akira Stern (@K.S.)
 
